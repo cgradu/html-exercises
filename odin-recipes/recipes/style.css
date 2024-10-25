@@ -1,3 +1,5 @@
+/* Setting the background-color and font-family for the page */
+
 h1,
 h2 {
     font-family: cursive, 'Montserrat', 'Times New Roman';
@@ -27,6 +29,7 @@ h2 {
 
 }
 
+/*  */
 #Description-Header {
     background-color: white;
     color: black;
@@ -35,6 +38,7 @@ h2 {
     text-align: left;
 }
 
+/* List class f */
 .list {
     background-color: darkcyan;
     color: aliceblue;
@@ -43,9 +47,9 @@ h2 {
     text-align: left;
 }
 
+
 .ingredient {
     color: pink;
-
 }
 
 li {
@@ -59,3 +63,8 @@ h2 p {
     text-align: left;
     font-family: 'Montserrat', 'Times New Roman'; 
 }
+
+* {
+    outline: 2px solid red;
+  }
+  
