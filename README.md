@@ -7,4 +7,3 @@ To open <file-name>.html files you have to use the following command:
 
 For an easier preview of the project, all the html files can be run by running the "open_sites.sh" script with the following command:
     sh open_sites.sh
-
